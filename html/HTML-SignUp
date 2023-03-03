@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+</head>
+<body>
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+<h1>Identity table</h1><i>
+<h4>Its quick and eazy</h4>
+ <tr> <button type="button" onclick="alert('Thanks for visit this website!')">Click Me!</button>
+<table>
+  <tr>
+    <th>Type Below</th>
+  </tr>
+  <tr>
+    <td>Input name<br><input type="text" placeholder="Name"/>
+  
+  </tr>
+  <tr>
+    <td>School number<br><input type="text" placeholder="School Number"/></p</td>
+
+  </tr>
+  <tr>
+    <td>Email<br><input type="email" placeholder="Email"/></p<td>
+   
+  
+  </tr>
+  <tr>
+  
+    <td>Password <br><input type= "password" placeholder="8 digits"/></p</td>
+    
+  </tr>
+  <tr>
+    <td>Gender<br>Select option <select> <option value="male">男</option>
+    <option value="female">女</option></td>
+</select>
+
+  </tr>
+  <tr>
+    <td>Birthday <br> <input type="date"/></p>
+    
+  </tr>
+  <tr>  
+    <td>My favorite color <br> Choose option   <input type="color" placeholder="My favorite color"
+<br>
+<br>
+
+<tr>
+<td>Easy choose, Click below
+<form>
+  <input type="radio" id="html" name="fav_language" value="Blue">
+  <label for="html">Green</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">Red</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">Blue</label>
+</form>
+
+</table>
+
+</body>
+</html>
+
