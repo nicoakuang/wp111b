@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color:#336699;
+}
+
+body {
+    margin: 20px 10%;
+}
+
+pre {
+    border:1px dotted #888888;
+    padding: 10px;
+    border-radius: 20px;
+}
