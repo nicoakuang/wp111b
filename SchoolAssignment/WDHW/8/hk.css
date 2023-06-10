@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+}
+#left_black{
+    background-color: black;
+    width: 50px;
+    height: 100%;
+    transition: width 0.5s;
+}
+#left_black:hover{
+    width: 200px;
+}
+.list{
+    padding-left: 50px;
+    padding-top: 50px;
+    display: none;
+    font-size: 40px;
+    font-family: 微軟正黑體;
+}
+.list a{
+    color: white;
+    white-space: nowrap;
+    text-decoration: none;
+}

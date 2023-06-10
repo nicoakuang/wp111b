@@ -1,0 +1,58 @@
+body {background-color: rgb(243, 255, 214);}
+h1 {
+    color: rgb(94, 102, 81);
+    text-align: center;
+    font-family: 微軟正黑體;
+    font-size: 40px;
+}
+p,div{
+    color: rgb(50, 52, 46);
+    font-family: 微軟正黑體;
+    font-size: 20px;
+}
+label {
+	font-family: 微軟正黑體;
+    color: rgb(50, 52, 46);
+}
+input {
+	font-family: 微軟正黑體;
+    background-color: rgb(249, 255, 233);
+    color: rgb(111, 117, 98);
+}
+select {
+	font-family: 微軟正黑體;
+    background-color: rgb(249, 255, 233);
+    color: rgb(111, 117, 98);
+}
+textarea {
+	font-family: 微軟正黑體;
+    background-color: rgb(249, 255, 233);
+    color: rgb(111, 117, 98);
+}
+a{
+    color: rgb(86, 103, 48);
+    font-family: 微軟正黑體;
+    font-style: italic;
+    font-size: 15px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+thead{
+    color: rgb(50, 52, 46);
+    font-family: 微軟正黑體;
+    font-size: 30px;
+    text-align: center;
+}
+tbody{
+    color: rgb(50, 52, 46);
+    font-family: 微軟正黑體;
+    font-size: 20px;
+    text-align: center;
+}
+ul,ol{
+    color: rgb(50, 52, 46);
+    font-family: 微軟正黑體;
+    font-size: 15px;
+}
