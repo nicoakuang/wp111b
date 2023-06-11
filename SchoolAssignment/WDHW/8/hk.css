@@ -1,24 +1,24 @@
-body{
-    margin: 0px;
+body {
+    margin:0px;
 }
-#left_black{
-    background-color: black;
-    width: 50px;
-    height: 100%;
-    transition: width 0.5s;
+#nav {
+    background-color:#ea9e3b;
+    width:40px;
+    height:100%;
+    transition: width 1s;
 }
-#left_black:hover{
-    width: 200px;
+#nav:hover {
+    width:200px;
 }
-.list{
-    padding-left: 50px;
-    padding-top: 50px;
-    display: none;
-    font-size: 40px;
-    font-family: 微軟正黑體;
+#navMain {
+    padding-left:40px;
+    padding-top:40px;
 }
-.list a{
-    color: white;
+#nav a {
+    color:#ffffff;
     white-space: nowrap;
     text-decoration: none;
+}
+#nav a:hover {
+    color:orange;
 }
