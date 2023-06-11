@@ -16,3 +16,4 @@ let y = [3, 4];
 
 // Perform dot product calculation using the 'vectorDotProduct' function
 vectorDotProduct(x, y);
+//https://github.com/nicoakuang

@@ -21,3 +21,4 @@ function truthTable(n, s = "") {
 
 // Generate a truth table with 10 columns
 truthTable(10);
+//https://github.com/nicoakuang

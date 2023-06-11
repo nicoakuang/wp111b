@@ -13,4 +13,4 @@ function isPrime(n) {
   
   // Test the isPrime function with a specific number
   console.log(isPrime(9973));
-  
+  //https://github.com/nicoakuang
