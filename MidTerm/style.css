@@ -1,0 +1,29 @@
+.row-only {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.em15 {
+  width: 32%;
+  margin-top: 1em;
+}
+
+.card-img-top {
+  min-height: 280px;
+  object-fit: cover;
+}
+
+.nav-text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 340px;
+}
+
+.text-resricted {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
