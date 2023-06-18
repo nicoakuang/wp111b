@@ -1,4 +1,4 @@
-## **This project was done by myself and I also used some online references**_
+## **This project was done by myself and I also used some online references**
 
 ## **References :**
 The concept of styling from [W3school - CSS Reference](https://www.w3schools.com/cssref/default.asp)
